@@ -1,0 +1,9 @@
+D:\Coding\C Sharp\Minion\Minion\bin\Debug\Minion.exe.config
+D:\Coding\C Sharp\Minion\Minion\bin\Debug\Minion.exe
+D:\Coding\C Sharp\Minion\Minion\bin\Debug\Minion.pdb
+D:\Coding\C Sharp\Minion\Minion\obj\Debug\Minion.FormMinion.resources
+D:\Coding\C Sharp\Minion\Minion\obj\Debug\Minion.Properties.Resources.resources
+D:\Coding\C Sharp\Minion\Minion\obj\Debug\Minion.csproj.GenerateResource.Cache
+D:\Coding\C Sharp\Minion\Minion\obj\Debug\Minion.exe
+D:\Coding\C Sharp\Minion\Minion\obj\Debug\Minion.pdb
+D:\Coding\C Sharp\Minion\Minion\obj\Debug\Minion.csprojResolveAssemblyReference.cache
